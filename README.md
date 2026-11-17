@@ -24,8 +24,8 @@ An admin dashboard for managing a bakery business: bread types, bakers, warehous
 ## Getting started
 
 ```bash
-git clone https://github.com/zoxirshoh/Safo-non.git
-cd Safo-non
+git clone https://github.com/zoxirshoh/safo-non-dashboard.git
+cd safo-non-dashboard
 npm install
 npm run dev
 ```
